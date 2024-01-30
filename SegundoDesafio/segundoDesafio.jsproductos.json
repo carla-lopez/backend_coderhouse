@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Producto de prueba",
+    "description": "Descripcion del producto de prueba",
+    "price": 15.99,
+    "thumbnail": "/Randy.jpg",
+    "code": "LORDE20",
+    "stock": 50
+  }
+]
